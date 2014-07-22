@@ -6,4 +6,28 @@ This respository contains a number of example programs written in Processing tha
 Note that all examples will require you to obtain your own Temboo credentials and API keys from the online API in question. The Temboo website has information on how to obtain these if you aren't already familiar with it.
 
 
+Twitter
+------
+
+- Basic Twitter Search -- demonstrates a simple search for a specific string
+- Twitter Search New -- search Twitter for a specific string, but only return results that are *new* since last search
+- Twitter Search ArrayList -- returns Twitter search results as an ArrayList
+
+Facebook
+--------
+
+- Name of Program -- Get Likes and Status of Friends
+
+XML
+---
+
+- Name of Program -- Search through a website's RSS using the Temboo XML parser
+
+
+HTML
+----
+
+- Name of Program -- Use Temboo's GET function to grab HTML and search it for a string
+
+
 
