@@ -10,7 +10,7 @@ Twitter
 ------
 
 - Basic Twitter Search -- demonstrates a simple search for a specific string
-- Twitter Search New -- search Twitter for a specific string, but only return results that are *new* since last search
+- Twitter Search New -- search Twitter for specific string, but only return results *new* since last search
 - Twitter Search ArrayList -- returns Twitter search results as an ArrayList
 
 Facebook
