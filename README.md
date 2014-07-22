@@ -9,9 +9,9 @@ Note that all examples will require you to obtain your own Temboo credentials an
 Twitter
 ------
 
-- Basic Twitter Search -- demonstrates a simple search for a specific string
-- Twitter Search New -- search Twitter for specific string, but only return results *new* since last search
-- Twitter Search ArrayList -- returns Twitter search results as an ArrayList
+- [Basic Twitter Search](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Twitter_Search_Basic.pde) -- demonstrates a simple search for a specific string
+- [Twitter Search New](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Twitter_Search_New.pde) -- search Twitter for specific string, but only return results *new* since last search
+- [Twitter Search ArrayList](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Twitter_Search_ArrayList.pde) -- returns Twitter search results as an ArrayList
 
 Facebook
 --------
