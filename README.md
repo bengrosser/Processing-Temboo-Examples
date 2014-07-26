@@ -21,7 +21,7 @@ Facebook
 XML
 ---
 
-- [NYT Gender Comparison](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Get_XML_NYT_Gender_Comparison.pde) -- Search through a website's RSS using the Temboo to get and parse the XML. Returns one's friends/IDs, statuses, likers
+- [NYT Gender Comparison](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Get_XML_NYT_Gender_Comparison.pde) -- Search through a website's RSS using the Temboo to get and parse the XML
 
 
 HTML
