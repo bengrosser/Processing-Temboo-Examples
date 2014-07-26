@@ -16,18 +16,18 @@ Twitter
 Facebook
 --------
 
-- Name of Program -- Get Likes and Status of Friends
+- [Facebook Friend Status Like](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Facebook_Friend_Status_Like.pde) -- Get Friend/Status/Likes from Facebook
 
 XML
 ---
 
-- Name of Program -- Search through a website's RSS using the Temboo XML parser
+- [NYT Gender Comparison](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Get_XML_NYT_Gender_Comparison.pde) -- Search through a website's RSS using the Temboo to get and parse the XML. Returns one's friends/IDs, statuses, likers
 
 
 HTML
 ----
 
-- Name of Program -- Use Temboo's GET function to grab HTML and search it for a string
+- [HTML Search Term Comparison](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Get_HTML_Search_Comparison.pde) -- Use Temboo's GET function to grab HTML from two different pages, search that HTML for specific terms, and print out the term counts
 
 
 
