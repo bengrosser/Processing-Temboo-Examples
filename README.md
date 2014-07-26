@@ -21,13 +21,13 @@ Facebook
 XML
 ---
 
-- [NYT Gender Comparison](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Get_XML_NYT_Gender_Comparison.pde) -- Search through a website's RSS using the Temboo to get and parse the XML
+- [NYT Gender Comparison](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Get_XML_NYT_Gender_Comparison.pde) -- Search through a website's RSS using Temboo to get and parse the XML
 
 
 HTML
 ----
 
-- [HTML Search Term Comparison](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Get_HTML_Search_Comparison.pde) -- Use Temboo's GET function to grab HTML from two different pages, search that HTML for specific terms, and print out the term counts
+- [HTML Search Term Comparison](https://github.com/bengrosser/Processing-Temboo-Examples/blob/master/Get_HTML_Search_Comparison.pde) -- Use Temboo's Get() function to grab HTML from two different pages, search that HTML for specific terms, and print out the term counts
 
 
 
